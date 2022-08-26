@@ -24,18 +24,18 @@ global.premium = ['+94 72 392 1905']
 global.ownernomer = '+94 72 392 1905'
 global.ownername = '➵͜͡✪ʀͥᴇᷧᴀͫʟ✘හ̶ශා̶නයා̶හ්⃝͡🙂🤍'
 global.botname = '➵͜͡✪ʀͥᴇᷧᴀͫʟ✘හ̶ශා̶නයා̶හ්⃝͡🙂🤍'
-global.footer = '©NexusNwInc.'
+global.footer = '➵͜͡✪ʀͥᴇᷧᴀͫʟ✘හ̶ශා̶නයා̶හ්⃝͡🙂🤍.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.sc = 'https://youtube.com/channel/UC3kVpYtBjlxZj4gjbxPBM5A'
+global.myweb = 'https://youtube.com/channel/UC3kVpYtBjlxZj4gjbxPBM5A'
 global.packname = '➵͜͡✪ʀͥᴇᷧᴀͫʟ✘හ̶ශා̶නයා̶හ්⃝͡🙂🤍'
 global.author = '➵͜͡✪ʀͥᴇᷧᴀͫʟ✘හ̶ශා̶නයා̶හ්⃝͡🙂🤍'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'හරි 🌝✌️',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
